@@ -333,6 +333,20 @@ Useful equipment for this project:
 - microscope / fine probes;
 - current-limited bench supply.
 
+
+
+### Lab equipment already discussed
+
+The available lab image / inventory discussed in this project included:
+
+- UNI-T UTD2102CM oscilloscope — 2-channel DSO, suitable for motor/servo timing work;
+- UNI-T UTP3305 bench supply — useful for current-limited power-up tests;
+- UNI-T UT161E multimeter;
+- Ersa i-CON1 soldering station;
+- ARINST VNA-DL 1-8800 MHz — potentially useful later for RF/antenna work, not required for the first firmware steps.
+
+A separate logic analyzer is still useful because the oscilloscope is not an MSO. For this project, 8 channels, 3.3 V logic support, >=20 MS/s and I2C/SPI/UART decoding are sufficient for most reverse-engineering tasks.
+
 ### H-bridge oscilloscope warning
 
 Both motor terminals may be switching.
