@@ -113,6 +113,8 @@ A pull-up from the A1LA control node toward BAT+ is strongly implied by the meas
 
 ## PAN pin map recovered on the board
 
+PAN pin numbers follow the standard SSOP numbering from the pin-1 mark, counter-clockwise when viewed from the top of the package.
+
 | PAN pin | Board function | Evidence |
 |---:|---|---|
 | 2 | Light channel 2 control | traced through resistor and Y1 |
